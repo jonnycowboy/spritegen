@@ -1,7 +1,7 @@
 spritegen
 =========
 
-Generate sprite sheets from animated gifs with a static background
+Generate sprite sheets from animated gifs with a static background using the Imagemagick tool.
 
 ##Inputs
 Uses two inputs files: one, *animated.gif* is the source animation.  Second, *bg.gif* is the complete background (must be created in an editor first). 
